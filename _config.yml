@@ -1,9 +1,7 @@
 ### Site Settings ###
 title               : Alexandre Baud
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      Programmeur gameplay, passionné de jeux vidéos (simulation, narratifs) et de sports (football, rugby, f1) vous pourrez retrouver ici mes projets, ma formation.
 baseurl             : ""                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : Bauda17/Bauda17.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU

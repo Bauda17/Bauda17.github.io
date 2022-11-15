@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: Formation
 permalink: /about/
-weight: 3
+weight: 2
 ---
 
 # **About Me**

@@ -23,3 +23,11 @@ Pour s'entrainer il existe aussi un mode fantôme où l'on peut affronter nos pr
 - Affichage des sprites et billboards  
 - UI (menus et navigation)  
 - Création de la horde  
+
+{% capture carousel_images %}
+../assets/menu_sc.png
+../assets/menu_sc2.png
+../assets/grotte_scarycow.png
+../assets/arrivee_sc.png
+{% endcapture %}
+{% include elements/carousel.html %}

@@ -1,23 +1,25 @@
 ---
-name: Overlord
-tools: [C++, Unreal Engine 4, Git]
-image: ../assets/Overlord.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+name: Scary Cow
+tools: [C++, DirectX11, PhysX, HLSL, Git]
+image: ../assets/grotte_scarycow.png
+description: Jeu réalisé sur un moteur maison par 4 personnes. Le joueur incarne un fermier qui doit s'enfuir car ses vaches le poursuivent !
 ---
 
-# Overlord
+# Scary Cow
 
-**Overlord** est un jeu multijoueur réalisé lors du trimestre d'hiver 2022 à l'Université de Sherbrooke (en groupe de 6). Il a été conçu à l'aide d'**Unreal Engine 4**.
+## Le jeu
+**Scary Cow** est un jeu réalisé lors du trimestre d'automne 2021 à l'Université de Sherbrooke (en groupe de 4). Il a été conçu à l'aide d'un moteur créé de toutes pièces pour l'occasion.
 
-Le gameplay est asymétrique : un joueur incarne l'**Overlord** qui va protéger son camp tandis que les autres joueurs vont tenter de s'infiltrer dedans afin de détruire la base adverse!
+Le but du jeu est d'incarner un **fermier** qui est poursuivi par une horde de **vaches** et qui possède un grappin afin de se **propulser** sur des objets prévus à cet effet. La difficulté de la horde est réglable mais si celle-ci nous atteint la partie est perdue !
 
-## Teaser
-{% include elements/video.html id="2_LORrGIPEY" %}
+Pour s'entrainer il existe aussi un mode fantôme où l'on peut affronter nos précédentes parties et même partager les nôtres avec nos amis.
 
-## Capsules techniques
-{% include elements/video.html id="1Un4c7iUH58" %}
-{% include elements/video.html id="dodzmcfWhOg" %}
+{% include elements/video.html id="XSY4ZI9PMpw" %}
 
-<p class="text-center">
-{% include elements/button.html link="https://www.youtube.com/playlist?list=PLnMHjA6BTxRYIH8zeq4hdldqzFKP7KUhQ" text="Playlist des capsules techniques" %}
-</p>
+## Tâches réalisées
+- Import des objets (terrain, modèles 3D)  
+- Gestion de la physique et des collisions  
+- Shaders HLSL  
+- Affichage des sprites et billboards  
+- UI (menus et navigation)  
+- Création de la horde  

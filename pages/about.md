@@ -5,15 +5,10 @@ permalink: /about/
 weight: 2
 ---
 
-# **About Me**
+# **Formation**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Après avoir réalisé les concours d'écoles d'ingénieurs, j'ai intégré l'ENSEEIHT (Toulouse INP) dans le cursus Sciences du Numérique. Une fois les deux premières années complétées, je suis parti un an au Canada (à Montréal) me spécialiser dans le développement du jeu vidéo dans le cadre d'un double diplôme.
 
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
 
 <div class="row">
 {% include about/timeline.html %}

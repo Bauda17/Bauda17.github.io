@@ -1,17 +1,25 @@
-- title: Université de Sherbrooke, Montréal, Canada
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: DESS en développement du jeu vidéo - Université de Sherbrooke, Montréal, Canada
+  from: 2021
+  to: 2022
+  description:  Double diplôme en partenariat avec l'ENSEEIHT. Cursus totalement dédié au jeu vidéo,
+                avec des enseignants travaillant dans l'industrie. Les cours sont directement liés et
+                appliqués au domaine du jeu vidéo. Ce cursus était donné avec une approche par projets,
+                que vous pouvez retrouver dans la section Projets de mon site. Parmi les enseignements,
+                il y avait notamment des cours d'IA (path finding, behavior tree, state machine…), 
+                de mathématiques, de physique, d'infographie, programmation
+                orientée objet, programmation distribuée, gestion de projet...
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Ingénieur en sciences du numérique - ENSEEIHT / Toulouse INP, Toulouse, France
+  from: 2022
+  to: 2019
+  description: Cursus d'ingénieur en sciences du numérique, spécialité Image et Multimédia. 
+              Programmation impérative (ADA, Python), objet (Java, C++), fonctionnelle (Caml).
+              Mathématiques appliquées dont probabilités, statistiques, optimisation, équations 
+              aux dérivées partielles, intégration, interpolation (utilisation de Unity).
+              Image et Multimédia dont traitement d’image et traitement de données audiovisuelles.
+
+- title: CPGE MPSI puis MP - Lycée Montaigne, Bordeaux, France
+  from: 2019
+  to: 2017
+  description: Classe préparatoire aux grandes écoles MPSI (Mathématiques Physiques Sciences de l'Ingénieur)
+              puis MP (Mathématiques Physique)

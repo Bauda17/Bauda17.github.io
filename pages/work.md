@@ -7,6 +7,12 @@ weight: 3
 
 # **Expérience professionnelle**
 
-<div class="row">
-{% include about/timeline.html %}
-</div>
+## Kylotonn - Stagiaire programmeur gameplay
+###### Juin 2022 - Décembre 2022, Lyon, France
+
+  
+
+
+
+## ENSEEIHT - Toulouse INP
+
